@@ -1,2 +1,1 @@
-on init
-    setprop ro.hardware qs8m_mq00
+# Dummy init.rc

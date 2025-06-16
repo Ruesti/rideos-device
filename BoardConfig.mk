@@ -1,4 +1,1 @@
-TARGET_ARCH := arm64
-TARGET_CPU_VARIANT := cortex-a53
-TARGET_BOOTLOADER_BOARD_NAME := qs8m_mq00
-TARGET_BOARD_PLATFORM := imx8m
+# Dummy BoardConfig.mk

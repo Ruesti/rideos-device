@@ -1,5 +1,6 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/qs8m_mq00.mk
+    qs8m_mq00:$(LOCAL_DIR)/qs8m_mq00.mk
+
 
 COMMON_LUNCH_CHOICES := \
     qs8m_mq00-user \
