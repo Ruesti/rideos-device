@@ -1,8 +1,8 @@
 PRODUCT_MAKEFILES := \
-    qs8m_mq00:$(LOCAL_DIR)/qs8m_mq00.mk
+    qs8m_custom:$(LOCAL_DIR)/qs8m_custom.mk
 
 COMMON_LUNCH_CHOICES := \
-    qs8m_mq00-ap2a-user \
-    qs8m_mq00-ap2a-userdebug \
-    qs8m_mq00-ap2a-eng
+    qs8m_custom-ap2a-user \
+    qs8m_custom-ap2a-userdebug \
+    qs8m_custom-ap2a-eng
 
